@@ -20,4 +20,6 @@ jobs:
       with:
         humanitec-token: ${{ secrets.HUMANITEC_TOKEN }}
         organization: humanitec-hackteam5
+        humanitec-registry: dev-registry.humanitec.io
+        humanitec-api: dev-api.humanitec.io
 
